@@ -395,7 +395,7 @@ img {
 }
 
 .takeaways-cards .card i {
-  margin-right: 1rem;
+  margin-right: 0;
 }
 
 /* Details*/
@@ -452,6 +452,7 @@ img {
   color: #fff;
   width: 100%;
   margin-left: 0;
+  margin-right: 0;
   margin-right: 0;
 }
 
